@@ -2,7 +2,7 @@
 using UnityEditor;
 namespace Tim.Utility.ObjectPoolSystem
 {
-	// You Can Extend ObjectPools For Any Kind Compoent
+	// You Can Implement ObjectPools For Any Kind Compoent
 	public class BulletObjectPools : ObjectPools<Bullet, BulletObjectPools>
 	{
 		protected override void OnDespwn(Bullet source)
