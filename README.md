@@ -2,6 +2,6 @@
 Unity Utility
 
 1. ObjectPoolSystem
-  - Create ObjectPool Simply
+  - Create ObjectPool Simplify
 2. SchduelHelper
-  - Create Schdule Simply 
+  - Create Schdule Simplify 
