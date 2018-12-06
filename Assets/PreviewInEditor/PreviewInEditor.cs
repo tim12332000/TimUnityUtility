@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 namespace Tim.Utility
 {
+	/// <summary>
+	/// This is For Sence Editor PreView , Not Show In The Game
+	/// </summary>
 	[ExecuteInEditMode]
 	public class PreviewInEditor : MonoBehaviour
 	{
